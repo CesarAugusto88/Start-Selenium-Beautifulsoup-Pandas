@@ -1,0 +1,246 @@
+1608271754230	geckodriver	INFO	Listening on 127.0.0.1:51039
+1608271754249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDKGZ9Y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608271766299	Marionette	INFO	Listening on port 43511
+1608271766340	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1608271785728	Marionette	INFO	Stopped listening on port 43511
+1608271903534	geckodriver	INFO	Listening on 127.0.0.1:42999
+1608271903540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqPCmXN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608271906065	Marionette	INFO	Listening on port 46637
+1608271906168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608271909879	Marionette	INFO	Stopped listening on port 46637
+1608272561995	geckodriver	INFO	Listening on 127.0.0.1:54197
+1608272562001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMXjSDJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608272564455	Marionette	INFO	Listening on port 38749
+1608272564535	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1608272571209	Marionette	INFO	Stopped listening on port 38749
+1608272742932	geckodriver	INFO	Listening on 127.0.0.1:58629
+1608272743032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMt1If7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608272745448	Marionette	INFO	Listening on port 38927
+1608272745578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1608272753696	Marionette	INFO	Stopped listening on port 38927
+1608275407538	geckodriver	INFO	Listening on 127.0.0.1:35203
+1608275408486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezlscA8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608275412973	Marionette	INFO	Listening on port 38545
+1608275413233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1608275432997	Marionette	INFO	Stopped listening on port 38545
+1608275456818	geckodriver	INFO	Listening on 127.0.0.1:36917
+1608275456823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh6VBcU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608275460057	Marionette	INFO	Listening on port 44441
+1608275461648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608275462543	Marionette	INFO	Stopped listening on port 44441
+1608275490965	geckodriver	INFO	Listening on 127.0.0.1:40407
+1608275490971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5aXoUc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608275494571	Marionette	INFO	Listening on port 37779
+1608275494623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608275496806	Marionette	INFO	Stopped listening on port 37779
+1608396762530	geckodriver	INFO	Listening on 127.0.0.1:45287
+1608396763500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile71ft7m"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608396773498	Marionette	INFO	Listening on port 40667
+1608396773643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1608396780472	Marionette	INFO	Stopped listening on port 40667
+1608396979211	geckodriver	INFO	Listening on 127.0.0.1:52265
+1608396979215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley0Tvdj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608396982219	Marionette	INFO	Listening on port 43589
+1608396982249	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1608396992834	Marionette	INFO	Stopped listening on port 43589
+1608398763145	geckodriver	INFO	Listening on 127.0.0.1:51515
+1608398764241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep1UB2X"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608398775346	Marionette	INFO	Listening on port 42279
+1608398775648	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1608398787631	Marionette	INFO	Stopped listening on port 42279
+1608398899909	geckodriver	INFO	Listening on 127.0.0.1:38537
+1608398899915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHpm414"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608398902661	Marionette	INFO	Listening on port 39549
+1608398902749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
+1608398914624	Marionette	INFO	Stopped listening on port 39549
+1608399383223	geckodriver	INFO	Listening on 127.0.0.1:42693
+1608399383229	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec5wMoE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608399385779	Marionette	INFO	Listening on port 34207
+1608399385871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1608399398038	Marionette	INFO	Stopped listening on port 34207
+1608399591773	geckodriver	INFO	Listening on 127.0.0.1:33251
+1608399591907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYoJQa0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608399595466	Marionette	INFO	Listening on port 44757
+1608399595569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
+1608399602293	Marionette	INFO	Stopped listening on port 44757
+1608399641878	geckodriver	INFO	Listening on 127.0.0.1:60405
+1608399641882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Si67P"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608399645362	Marionette	INFO	Listening on port 45393
+1608399645428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
+1608399651176	Marionette	INFO	Stopped listening on port 45393
+1608399784254	geckodriver	INFO	Listening on 127.0.0.1:51087
+1608399784258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev8OqFO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608399790542	Marionette	INFO	Listening on port 39347
+1608399790656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608399802845	Marionette	INFO	Stopped listening on port 39347
+1608399848442	geckodriver	INFO	Listening on 127.0.0.1:37317
+1608399848447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV9AjaH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608399852175	Marionette	INFO	Listening on port 38215
+1608399852327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
+1608399859581	Marionette	INFO	Stopped listening on port 38215
+1608399958665	geckodriver	INFO	Listening on 127.0.0.1:54001
+1608399958669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1gb5YM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608399962069	Marionette	INFO	Listening on port 43895
+1608399962102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1608399970835	Marionette	INFO	Stopped listening on port 43895
+1608400006875	geckodriver	INFO	Listening on 127.0.0.1:34605
+1608400006880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRIZJU2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608400009299	Marionette	INFO	Listening on port 45187
+1608400009450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
+1608400016885	Marionette	INFO	Stopped listening on port 45187
+1608400359375	geckodriver	INFO	Listening on 127.0.0.1:57795
+1608400359427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefsfwqf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608400362735	Marionette	INFO	Listening on port 40521
+1608400362801	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608400365129	Marionette	INFO	Stopped listening on port 40521
+1608400375085	geckodriver	INFO	Listening on 127.0.0.1:35753
+1608400375126	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea4AwxB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608400379441	Marionette	INFO	Listening on port 37269
+1608400379496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
+1608400387287	Marionette	INFO	Stopped listening on port 37269
+1608400407110	geckodriver	INFO	Listening on 127.0.0.1:43601
+1608400407198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKyC3VB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608400413554	Marionette	INFO	Listening on port 45547
+1608400413640	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
+1608400425284	Marionette	INFO	Stopped listening on port 45547
+1608400594475	geckodriver	INFO	Listening on 127.0.0.1:42529
+1608400594482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewwIhqJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608400598132	Marionette	INFO	Listening on port 42483
+1608400598213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
+1608400611563	Marionette	INFO	Stopped listening on port 42483
+1608400842729	geckodriver	INFO	Listening on 127.0.0.1:38111
+1608400842734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUJEwOW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608400848694	Marionette	INFO	Listening on port 40215
+1608400848756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608400858116	Marionette	INFO	Stopped listening on port 40215
+1608400872200	geckodriver	INFO	Listening on 127.0.0.1:43833
+1608400872206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM1XX6y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608400875072	Marionette	INFO	Listening on port 40221
+1608400875149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608400894362	Marionette	INFO	Stopped listening on port 40221
+1608401339939	geckodriver	INFO	Listening on 127.0.0.1:39091
+1608401339944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileth9kqq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608401343878	Marionette	INFO	Listening on port 35715
+1608401344000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608401353074	Marionette	INFO	Stopped listening on port 35715
+1608401438469	geckodriver	INFO	Listening on 127.0.0.1:50567
+1608401438475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebx4HFH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608401444534	Marionette	INFO	Listening on port 33333
+1608401444586	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
+1608401468520	Marionette	INFO	Stopped listening on port 33333

@@ -1,0 +1,37 @@
+ddg_page.find('a')
+_as = ddg_page.find_all('a')
+_as[0]
+type(_as[2])
+_as[2].find('href')
+_as[2].find('class')
+_as[2].find('div')
+_as[4].find('h1')
+ddg_page.find_all('p')
+ddg_page.find_all('p').text
+ddg_page.find('p').text
+ddg_page.find_all('div')
+len(ddg_page.find_all('div'))
+ddg_page.find_all('div')[0]
+ddg_page.find_all('div')[2].find_all('div')
+ddg_page.find_all('div')[2].find_all('div').find_all('div')
+ddg_page.find_all('div')[2].find_all('div').find('div')
+ddg_page.find_all('div')[2].find_all('div')
+ddg_page.find_all('div')[2].find_all('div')[0]
+div_sel = ddg_page.find_all('div')[4].find_all('div')[0]
+div_sel
+div_sel = ddg_page.find_all('div')[4].find_all('div')[1]
+ddg_page.find_all('img')
+...
+Links de referências:
+https://www.vooo.pro/insights/guia-para-iniciantes-de-web-scraping-em-python-usando-beautifulsoup/
+https://www.youtube.com/watch?v=H6D8EFSGml0
+https://www.youtube.com/watch?v=kktO7IOjpgs
+https://imasters.com.br/back-end/aprendendo-sobre-web-scraping-em-python-utilizando-beautifulsoup
+https://living-sun.com/pt/python/703265-beautifulsoup-scraping-table-from-website-with-requests-for-pandas-python-pandas-beautifulsoup-python-requests.html
+https://www.freecodecamp.org/news/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251/
+https://blog.4linux.com.br/web-scraping-python-selenium-e-beautifulsoup/
+https://medium.com/machina-sapiens/raspagem-de-dados-com-python-e-beautifulsoup-1b1b7019774c
+https://dicasdepython.com.br/pandas-como-construir-um-dataframe-a-partir-de-um-dicionario/
+https://www.crummy.com/software/BeautifulSoup/bs4/doc.ptbr/
+http://pythonclub.com.br/introducao-a-testes-funcionais-com-selenium-e-python.html
+https://wiki.python.org.br/BeautifulSoup

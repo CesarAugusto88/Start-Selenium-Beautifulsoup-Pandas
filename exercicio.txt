@@ -1,0 +1,1 @@
+Utilizando Selenium, Beautifulsoup e pandas, fazer um programa que pegue a Referência, qts de quartos e link da imagem desse imóvel (https://www.novasaopaulo.com.br/imovel/locacao-casa-americanopolis-sao-paulo/JA18809) e retornar um dataframe (pandas) com os valores.
