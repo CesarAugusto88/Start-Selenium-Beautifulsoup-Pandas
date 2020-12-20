@@ -23,7 +23,7 @@ div_img = soup.find_all('div', {'class': 'slick-slide slick-current slick-active
 link = div_img[0].find('img').get('src')
 # print(link)
 # print(type(link))
-link_img = {'Imagem': [link]}
+link_img = {'IMAGEM': [link]}
 # print(link_img)
 
 # fundindo dicionarios
