@@ -30,4 +30,8 @@ link_img = {'IMAGEM': [link]}
 quartos.update(link_img)
 
 df = pd.DataFrame(data=quartos)
-print(df)
+
+# setando largura de coluna None
+pd.set_option('max_colwidth', None)
+
+print(df.head())
