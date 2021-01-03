@@ -1,5 +1,7 @@
 # Project Basic with Selenium, Beautifulsoup and Pandas
 
+![alt-text](https://github.com/CesarAugusto88/Start-Selenium-Beautifulsoup-Pandas/blob/main/print%20gif/Webp.net-gifmaker.gif)
+
 ## Table of Contents
 
 - [About](#about)
