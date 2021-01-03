@@ -32,6 +32,6 @@ quartos.update(link_img)
 df = pd.DataFrame(data=quartos)
 
 # setando largura de coluna None
-pd.set_option('max_colwidth', None)
+# pd.set_option('max_colwidth', None)
 
-print(df.head())
+print(df)

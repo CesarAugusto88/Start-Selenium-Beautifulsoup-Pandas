@@ -1113,3 +1113,402 @@ JavaScript error: , line 0: uncaught exception: Object
 JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
 1608522907273	Marionette	INFO	Stopped listening on port 42987
+1608523257078	geckodriver	INFO	Listening on 127.0.0.1:39495
+1608523257094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJeJGbR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608523262966	Marionette	INFO	Listening on port 42429
+1608523263090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
+1608523281095	Marionette	INFO	Stopped listening on port 42429
+1608671264112	geckodriver	INFO	Listening on 127.0.0.1:59417
+1608671265075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCj46BJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608671284527	Marionette	INFO	Listening on port 38111
+1608671284688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1608671406215	Marionette	INFO	Stopped listening on port 38111
+1608671409841	geckodriver	INFO	Listening on 127.0.0.1:55547
+1608671409846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIAJpkf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608671413400	Marionette	INFO	Listening on port 42443
+1608671413484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608671758055	Marionette	INFO	Stopped listening on port 42443
+1608671850768	geckodriver	INFO	Listening on 127.0.0.1:60231
+1608671850793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHLI72T"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608671854429	Marionette	INFO	Listening on port 41117
+1608671854577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1608671871771	Marionette	INFO	Stopped listening on port 41117
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608672270492	geckodriver	INFO	Listening on 127.0.0.1:47977
+1608672270498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexWnEer"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608672274568	Marionette	INFO	Listening on port 41817
+1608672274674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+
+(firefox:23736): GLib-GObject-CRITICAL **: 18:24:48.290: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23736): GLib-GObject-CRITICAL **: 18:24:48.290: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23736): GLib-GObject-CRITICAL **: 18:24:48.290: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23736): GLib-GObject-CRITICAL **: 18:24:48.290: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23736): GLib-GObject-CRITICAL **: 18:24:48.401: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23736): GLib-GObject-CRITICAL **: 18:24:48.672: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23736): GLib-GObject-WARNING **: 18:25:43.320: ../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f1773aa4170' of type 'MaiAtkType139'
+
+(firefox:23736): GLib-GObject-WARNING **: 18:25:44.456: ../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f1770e80830' of type 'MaiAtkType139'
+
+(firefox:23736): GLib-GObject-WARNING **: 18:25:44.456: ../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f1770e80170' of type 'MaiAtkType139'
+
+(firefox:23736): GLib-GObject-CRITICAL **: 18:25:44.588: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23736): GLib-GObject-CRITICAL **: 18:25:44.706: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23736): GLib-GObject-CRITICAL **: 18:25:44.776: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1608672396839	Marionette	INFO	Stopped listening on port 41817
+1608673258950	geckodriver	INFO	Listening on 127.0.0.1:42027
+1608673259138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenVrgPn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608673273108	Marionette	INFO	Listening on port 41537
+1608673273147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1608673299125	Marionette	INFO	Stopped listening on port 41537
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608673361076	geckodriver	INFO	Listening on 127.0.0.1:40515
+1608673361081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS6iiYX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608673364310	Marionette	INFO	Listening on port 40433
+1608673364437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608673468318	Marionette	INFO	Stopped listening on port 40433
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608673530710	geckodriver	INFO	Listening on 127.0.0.1:44543
+1608673530715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIHSSh7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608673533965	Marionette	INFO	Listening on port 43793
+1608673534075	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1608673536675	Marionette	INFO	Stopped listening on port 43793
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608673848872	geckodriver	INFO	Listening on 127.0.0.1:42273
+1608673848877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVOqhv9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608673852131	Marionette	INFO	Listening on port 45147
+1608673852242	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+1608673941182	Marionette	INFO	Stopped listening on port 45147
+1608674395883	geckodriver	INFO	Listening on 127.0.0.1:41781
+1608674395889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7nLdoH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608674399289	Marionette	INFO	Listening on port 42205
+1608674399343	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1608674542067	Marionette	INFO	Stopped listening on port 42205
+1608674544606	geckodriver	INFO	Listening on 127.0.0.1:50239
+1608674544610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekeRf7s"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608674547948	Marionette	INFO	Listening on port 43669
+1608674548053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1608674563619	Marionette	INFO	Stopped listening on port 43669
+1608674952140	geckodriver	INFO	Listening on 127.0.0.1:46291
+1608674952144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeAr1LP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608674956003	Marionette	INFO	Listening on port 35341
+1608674956100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608675051816	Marionette	INFO	Stopped listening on port 35341
+1609163161140	geckodriver	INFO	Listening on 127.0.0.1:55181
+1609163161229	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZR8uC5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609163167814	Marionette	INFO	Listening on port 34939
+1609163168383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1609163186570	Marionette	INFO	Stopped listening on port 34939
+1609163215313	geckodriver	INFO	Listening on 127.0.0.1:53117
+1609163215335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaMAlto"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609163219524	Marionette	INFO	Listening on port 44773
+1609163219595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+1609163234595	Marionette	INFO	Stopped listening on port 44773
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609163340668	geckodriver	INFO	Listening on 127.0.0.1:56853
+1609163340674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepvlnRi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609163343897	Marionette	INFO	Listening on port 37433
+1609163344016	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+1609163663132	Marionette	INFO	Stopped listening on port 37433
+1609163711211	geckodriver	INFO	Listening on 127.0.0.1:45043
+1609163711217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLJQnyQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609163714318	Marionette	INFO	Listening on port 34847
+1609163714401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2891.js, line 1: unreachable code after return statement
+1609163751242	Marionette	INFO	Stopped listening on port 34847
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609646899009	geckodriver	INFO	Listening on 127.0.0.1:54597
+1609646899952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesiqoU3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609646913532	Marionette	INFO	Listening on port 39637
+1609646913663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
+1609647157869	Marionette	INFO	Stopped listening on port 39637
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609647172664	geckodriver	INFO	Listening on 127.0.0.1:34807
+1609647172673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqFFrpM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609647177376	Marionette	INFO	Listening on port 43439
+1609647177447	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.novasaopaulo.com.br/js/script.min.js, line 26903: TypeError: $(...)[0] is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1609647306199	Marionette	INFO	Stopped listening on port 43439
